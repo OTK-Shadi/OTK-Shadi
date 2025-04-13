@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shadi_Alnabulsi
-- 📫 How to reach me ----> alnabulsi.shadi2019@yahoo.com
+- 📫 How to reach me ----> alnabulsi.shadi2019@gmail.com
 
 <!---
 OTK-Shadi/OTK-Shadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
